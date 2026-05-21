@@ -1,64 +1,37 @@
-# =========================
-# Jogos Online - Blocklist
-# =========================
-
-# Roblox
 roblox.com
 www.roblox.com
 api.roblox.com
 games.roblox.com
 assetgame.roblox.com
 rbxcdn.com
-
-# Minecraft
 minecraft.net
 launcher.mojang.com
 session.minecraft.net
 textures.minecraft.net
-
-# Epic Games / Fortnite
 epicgames.com
 www.epicgames.com
 launcher-public-service-prod06.ol.epicgames.com
 fortnite.com
-
-# Steam
 steampowered.com
 steamcommunity.com
 steamstatic.com
 steamcontent.com
 steamgames.com
-
-# Riot Games / LoL / Valorant
 riotgames.com
 leagueoflegends.com
 playvalorant.com
 valorant-api.com
-
-# EA Games
 ea.com
 origin.com
-
-# Ubisoft
 ubisoft.com
 ubi.com
-
-# Battle.net / Blizzard
 battle.net
 blizzard.com
-
-# Xbox
 xboxlive.com
 xbox.com
-
-# PlayStation
 playstation.com
 sonyentertainmentnetwork.com
-
-# Nintendo
 nintendo.com
-
-# Jogos Browser / Flash / HTML5
 poki.com
 crazygames.com
 kizi.com
@@ -77,24 +50,16 @@ ojogos.com.br
 jogos360.com.br
 jogosgratisonline.com.br
 jogosonlinegratis.uol.com.br
-
-# Jogos infantis
 coolmathgames.com
 pbskids.org
 noggin.com
-
-# Apps e mobile gaming
 supercell.com
 clashofclans.com
 clashroyale.com
 brawlstarsgame.com
-
-# APK / Mods / Hacks
 aptoide.com
 happymod.com
 apkpure.com
-
-# Cassino e apostas
 bet365.com
 betano.com
 sportingbet.com
@@ -105,20 +70,12 @@ stake.com
 betfair.com
 betnacional.com.br
 esportesdasorte.com
-
-# Emuladores / ROMs
 coolrom.com
 romsfun.com
 emuparadise.me
-
-# Cloud Gaming
 geforcenow.com
 xcloud.com
-
-# Discord gaming communities
 discord.gg
-
-# CDN de jogos
 cdn.roblox.com
 gamecdn.net
 html5games.com
